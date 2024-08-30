@@ -4,6 +4,6 @@
 
         <default revision="main" remote="origin"/>
 
-	<project path="test/testa" name"test/test_a"/>
-	<project path="test/testb" name"test/test_b"/>
+	<project path="test/testa" name="test/test_a"/>
+	<project path="test/testb" name="test/test_b"/>
 </manifest>
